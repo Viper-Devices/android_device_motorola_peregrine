@@ -15,4 +15,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/full_peregrine.mk \
-    $(LOCAL_DIR)/lineage_peregrine.mk
+    $(LOCAL_DIR)/viper_peregrine.mk
